@@ -372,6 +372,9 @@ input[type='checkbox'] {
 		vertical-align: -9%;
 	}
 }
+.bold{
+	font-size: 20px;
+}
 
 .form-control-submit-button {
 	display: inline-block;
